@@ -1,6 +1,2 @@
 # Demo
-learning
-working
-on
-github
-account
+#Learing GitHub is more Fun.
